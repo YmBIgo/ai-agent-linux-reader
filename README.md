@@ -1,4 +1,4 @@
-Search Page : https://storage.googleapis.com/linux-reader/index5.html  
+Search Page : https://storage.googleapis.com/linux-reader/index.html  
 VSCode : https://marketplace.visualstudio.com/items?itemName=coffeecupjapan.linux-reader
 
 ## Linux Reader とは？
@@ -84,7 +84,7 @@ clangdのパス、Linuxのパス、compile_commands.json のディレクトリ�
 
 9. その他機能
 その他にも、「過去の探索経路からの再探索機能」「探索経路のインポート・エクスポート機能」「バグ発見機能」「探索レポート機能」などがあります。  
-また、https://storage.googleapis.com/linux-reader/index5.html から自分の探索した経路の登録や他人の探索した経路の検索ができます。
+また、https://storage.googleapis.com/linux-reader/index.html から自分の探索した経路の登録や他人の探索した経路の検索ができます。
 
 ## Release Notes
 
