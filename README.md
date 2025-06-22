@@ -4,7 +4,7 @@ VSCode : https://marketplace.visualstudio.com/items?itemName=coffeecupjapan.linu
 ## Linux Reader とは？
 Linux Reader とは、LLMと一緒にLinuxのコードを読むためのツールです。
 
-[\[LinuxReaderデモ\](https://youtu.be/jT_mHFuKsdQ)](https://youtu.be/jT_mHFuKsdQ)
+[\[LinuxReaderデモ\](https://youtu.be/cuhBrpQenJs)](https://youtu.be/cuhBrpQenJs)
 
 #### [できること]
 - 人がコードを読まずともLLMが関数探索してくれる（VSCode）
